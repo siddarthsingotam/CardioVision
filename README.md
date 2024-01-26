@@ -40,7 +40,7 @@ For more information and materials on the mip installation in Pico W process
 
 ## Authors and acknowledgement
 - Project member & leader: Siddarth Singotam - Siddarth.Singotam@metropolia.fi
-- Project member: Fatemeh Ramezan Nasab Shomia - Fatemeh.RamezanNasabShomia@metropolia.fi
+
 
 
 The team members of the project appreciate lecturer Keijo Lansikkunnas, Metropolia UAS for teaching insights and conducting this project which is a part of 15 credits Hardware 2 course.
